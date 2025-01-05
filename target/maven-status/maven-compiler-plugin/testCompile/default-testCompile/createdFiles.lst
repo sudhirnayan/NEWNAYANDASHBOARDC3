@@ -1,4 +1,6 @@
 com\nayan\com\nayan\AppTest.class
+stepdefinition\dashbaordstep.class
 stepdefinition\loginstep.class
 runner\Testrunner.class
+page\Dashboardpage.class
 page\Loginpage.class
