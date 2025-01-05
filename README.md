@@ -1,2 +1,2 @@
-New ngrok url website is automated in htis project 
+New ngrok url website is automated in this project 
 Automated login and homepage of c3 dashboard 
